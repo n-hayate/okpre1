@@ -1,0 +1,6 @@
+streamlit
+openai>=1.0.0 # OpenAIライブラリは v1.0.0 以上が必須
+requests
+python-dotenv
+Pillow
+pandas]
